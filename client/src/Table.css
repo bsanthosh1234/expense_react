@@ -1,0 +1,18 @@
+.dt-button >span
+{
+  margin-left: 5%;
+  margin: 5px;
+  border: 2px solid rgb(102, 102, 239);
+  background-color: rgb(102, 102, 239);
+  color: white;
+  border-radius: 5px; 
+  padding: 10px;
+  
+}
+th{
+    margin-left: 3px;
+}
+#example_filter
+{
+  margin-top: 25px;
+}
