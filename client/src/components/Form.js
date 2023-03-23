@@ -39,7 +39,7 @@ export default function Form({ flag, setFlag }) {
 
     // console.log("posted data", data)
     if (data.length === 0) {
-      alert("please choose the file")
+      alert("please choose the file");
     }
 
 
