@@ -38,9 +38,7 @@ export default function Form({ flag, setFlag }) {
   function uploadToBackend() {
 
     // console.log("posted data", data)
-    if (data.length === 0) {
-      alert("please choose the file");
-    }
+  alert("MC")
 
 
     fetch('http://192.168.1.11:3006/api/data', {
